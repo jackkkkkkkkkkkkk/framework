@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41265b52-b639-4039-903f-5760dc6f96a8" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1oOuNaPgwhNyiau3KEnYgWmdl0P" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\php projects\framework\app" />
+      <recent name="D:\php projects\framework\system\Router\Api" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41265b52-b639-4039-903f-5760dc6f96a8" name="Default Changelist" comment="" />
+      <created>1613169918458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613169918458</updated>
+      <workItem from="1613169920378" duration="2679000" />
+      <workItem from="1613222903654" duration="7673000" />
+      <workItem from="1613301105018" duration="2856000" />
+      <workItem from="1613388296958" duration="2394000" />
+      <workItem from="1614652848087" duration="1468000" />
+      <workItem from="1614681913477" duration="3229000" />
+      <workItem from="1615022674360" duration="4368000" />
+      <workItem from="1615087209429" duration="5530000" />
+      <workItem from="1615176731082" duration="5137000" />
+      <workItem from="1615255071579" duration="5535000" />
+      <workItem from="1615351010708" duration="2183000" />
+      <workItem from="1615627894106" duration="462000" />
+      <workItem from="1615888450499" duration="11847000" />
+      <workItem from="1616420481549" duration="4888000" />
+      <workItem from="1616502673443" duration="29133000" />
+      <workItem from="1616682838418" duration="8070000" />
+      <workItem from="1616767909392" duration="10380000" />
+      <workItem from="1616811223136" duration="10258000" />
+      <workItem from="1616949235965" duration="9628000" />
+      <workItem from="1617118359657" duration="4171000" />
+      <workItem from="1617982853337" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
